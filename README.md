@@ -8,4 +8,9 @@ The numerical solution of the Navier-Stokes equation has been succeeding acquire
 
 ![picture](https://drive.google.com/uc?export=view&id=1-25USZNxZiNmTx_gWK9-XRPc8dsZXj88)
 
-_Figure 8: Velocity profile and pressure field around circular body (plotted by matplotlib)_
+_Figure 8: Velocity profile and pressure field around circular body_
+
+
+![picture](https://drive.google.com/uc?export=view&id=1dq-kUr5RNBkzRn-u316QhkfBjwFjN0QZ)
+
+_Figure 9: Data are extracted along the Line-i and Line-j_
